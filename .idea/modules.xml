@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/acountWord.iml" filepath="$PROJECT_DIR$/.idea/acountWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../accountWord/.idea/accountWord.iml" filepath="$PROJECT_DIR$/../accountWord/.idea/accountWord.iml" />
     </modules>
   </component>
 </project>
